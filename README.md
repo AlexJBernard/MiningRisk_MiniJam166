@@ -24,12 +24,15 @@ Just run the following in a command line
 love MiningRisk_MiniJam116
 ```
 
+![The title screen for Mining Risk](screenshots/TitleScreen.png)
+
 ## How to Play 
 ### Controls
 **WASD** - Movement\
 **Mouse Cursor** - Aiming and Menu Selection\
 **Mouse Left-Click** - Mining
 
+![The title screen for Mining Risk](screenshots/MidGame2.png)
 Your character's mining spot is respresented by a red target between
 the character and the mouse cursor. Any rocks that overlap with this
 target will be mined when you click with the left mouse button. 
